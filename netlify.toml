@@ -1,0 +1,4 @@
+[build]
+base = "energy/"
+publish = "energy/build/"
+command = "yarn build"

@@ -2,7 +2,7 @@
   "name": "energy",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/build",
+  "homepage": "https://energia-dash-demo.netlify.com",
   "dependencies": {
     "@types/react": "16.4.16",
     "bootstrap": "4.1.3",
